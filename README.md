@@ -3,13 +3,13 @@ Implementation of Classification Algorithm
 
 Types of Classification Algorithms
 
-        Linear Classifiers,
+        Linear Classifiers
 
-        Logistic regression,
+        Logistic regression
 
-        Naive Bayes classifier,
+        Naive Bayes classifier
 
-        Support vector machines,
+        Support vector machines
 
         k-nearest neighbor 
         
